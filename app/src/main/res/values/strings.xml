@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">WordsFactory</string>
+    <string name="title_activity_dictionary">DictionaryActivity</string>
+    <string name="title_home">Dictionary</string>
+    <string name="title_dashboard">Training</string>
+    <string name="title_notifications">Video</string>
+    <string name="title_activity_words_factory">WordsFactoryActivity</string>
+</resources>
